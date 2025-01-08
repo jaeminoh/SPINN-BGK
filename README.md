@@ -1,6 +1,6 @@
-<h1 align='center'> SPINN-BGK: separable PINNs for the BGK model of the Boltzmann Equation </h1>
+<h1 align='center'> SPINN-BGK: Separable PINNs for the Boltzmann-BGK Model </h1>
 
-[arXiv](https://arxiv.org/abs/2403.06342)
+[**arXiv**](https://arxiv.org/abs/2403.06342)
 
 ## Abstract
 
@@ -29,9 +29,9 @@ Run `python smooth_3d.py --Kn=0.01 --rank=256` for the (3+3+1) smooth problem.
 
 
 ## Citation
-If you find this repository helpful in your research, please consider cite us!
+If you find this repository useful in your research, please consider citing us!
 
-```
+```bibtex
 @article{oh2024separable,
     title={Separable Physics-informed Neural Networks for Solving the BGK Model of the Boltzmann Equation},
     author={Oh, Jaemin and Cho, Seung Yeon and Yun, Seok-Bae and Park, Eunbyung and Hong, Youngjoon},
