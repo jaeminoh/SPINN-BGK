@@ -9,6 +9,36 @@ To address this issue, we leverage the canonical polyadic decomposition structur
 To overcome this, we introduce SPINN-BGK, a specialized variant of SPINNs that fuses SPINNs with Gaussian functions and utilizes a relative loss approach. This modification enables SPINNs to decay as rapidly as Maxwellian distributions, enhancing the accuracy of macroscopic moment approximations. The relative loss design ensures that both large and small-scale features are effectively captured by the SPINNs.
 The effectiveness of our approach is validated through six numerical experiments, including a complex 3D Riemann problem. These experiments demonstrate the potential of our method to efficiently and accurately tackle intricate challenges in computational physics, offering significant improvements in computational efficiency and solution accuracy.
 
+## Visualization
+### 1D3V
+**Kn=0.01**
+
+https://github.com/user-attachments/assets/48dcfe42-be6a-41a2-990e-24bd956eb8d0
+
+**Kn=1**
+
+
+https://github.com/user-attachments/assets/c56ac8d8-98a6-4b68-8dd5-d663af1d2051
+
+
+
+
+### 2D3V
+**Kn=0.01**
+
+https://github.com/user-attachments/assets/d9bf2abd-2150-4854-ac7a-8fb2ceaa2c9e
+
+**Kn=1**
+
+https://github.com/user-attachments/assets/9622bb81-675f-4e25-bed3-0b5067725887
+
+### 3D3V
+**Kn=0.01**
+![3d_Kn0 01](https://github.com/user-attachments/assets/856c1739-f96d-4622-b780-4437f4c92698)
+
+**Kn=1**
+![3d_Kn1 0](https://github.com/user-attachments/assets/7d7600b9-6133-407c-ab23-168dd7af4306)
+
 
 
 ## How to run
