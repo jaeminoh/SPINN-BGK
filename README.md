@@ -63,7 +63,7 @@ If you find this repository useful in your research, please consider citing us!
 
 ```bibtex
 @article{oh2025separable,
-  title={Separable physics-informed neural networks for solving the bgk model of the boltzmann equation},
+  title={Separable physics-informed neural networks for solving the {BGK} model of the {B}oltzmann equation},
   author={Oh, Jaemin and Cho, Seung Yeon and Yun, Seok-Bae and Park, Eunbyung and Hong, Youngjoon},
   journal={SIAM Journal on Scientific Computing},
   volume={47},
